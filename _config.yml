@@ -22,13 +22,13 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Francisco Ortega-Culaciati"
+  #pronouns         : # example: "she/her"  
+  bio              : "Inverse Modeling, Seismologist, Geodesist, Earthquakes, Subduction Zones"
+  location         : "Santiago, Chile"
+  employer         : "University of Chile"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ortega.francisco@uchile.cl" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
