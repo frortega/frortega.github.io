@@ -21,7 +21,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Myself4GITHUB.jpg"
   name             : "Francisco Ortega-Culaciati"
   #pronouns         : # example: "she/her"  
   bio              : "Inverse Modeling, Seismologist, Geodesist, Earthquakes, Subduction Zones"
